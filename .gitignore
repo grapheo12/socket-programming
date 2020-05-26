@@ -1,0 +1,6 @@
+*.cbp
+bin
+obj
+*.depend
+*.layout
+main.cpp
